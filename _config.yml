@@ -21,7 +21,7 @@ repository               : "github.com/shekfeh/shekfeh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-   name             : "Suhaib Shekfeh"
+  name             : "Suhaib Shekfeh"
   avatar           : "shekfeh_2023-09-06.jpg"
   bio              : "Computational/Medicinal/Analytical Chemist et al."
   location         : "Augsburg, Germany"
