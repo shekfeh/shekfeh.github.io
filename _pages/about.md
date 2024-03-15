@@ -13,7 +13,7 @@ I am a Computational/Medicinal/Analytical chemist based in Augbsurg, Bayern. [Mo
 ---
 
 
-<img src="/images/logo1.png" alt="md" width="140px" align="left" style="padding:10px;"> Some of the projects I worked with:
+Some of the projects I worked with:
 
 1- Overcoming the resistance to Mastocytosis/GIST's targeted therapy by the mutant D816V c-KIT Tyrosine kinase.
 
@@ -34,6 +34,7 @@ I am a Computational/Medicinal/Analytical chemist based in Augbsurg, Bayern. [Mo
 9- Cheminformatics, Chemometrics, and chemical data managment.
 
 10- Data processing using R/Python/SQL.
+
 11- Chromatography, Spectrometry, and analytical chemical methods.
 
 
@@ -45,6 +46,6 @@ The real focus of my work was applying virtual screening for developing and desi
 ---
 
 
-<img src="/images/teach.jpeg" alt="md" width="140px" align="left" style="padding:10px;"> In addition to my research, I have an experience in teaching. I was a course instructor for [Computational Modeling in Physics](https://utm.calendar.utoronto.ca/course/phy426h5). Over the years, I have had the opportunity to teach various university courses in physics, mathematics, programming, and chemistry as a teaching assistant. [Find my selected tutorials](/teaching/).
+In addition to my research, I have an experience in teaching. I was a course instructor for [Computational Modeling in Physics](https://utm.calendar.utoronto.ca/course/phy426h5). Over the years, I have had the opportunity to teach various university courses in physics, mathematics, programming, and chemistry as a teaching assistant. [Find my selected tutorials](/teaching/).
 
 ---
