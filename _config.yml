@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -22,11 +22,11 @@ repository               : "github.com/shekfeh/shekfeh.github.io"
 author:
   # Biographic information
   name             : "Suhaib Shekfeh"
-  avatar           : "shekfeh_2023-09-06.jpg"
+  avatar           : "shekfeh_profile.jpg"
   bio              : "Computational Chemist et al."
   location         : "Augsburg, Germany"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=QIjdAMIAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -70,8 +70,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   #github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   #bluesky          : "bsky.app" # Replace this with you Bluesky username
