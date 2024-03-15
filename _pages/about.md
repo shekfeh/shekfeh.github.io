@@ -44,8 +44,3 @@ Pharmaceutical Interests: Epigenetic Targets (HAT and HDAC), Kinases : flexibili
 The real focus of my work was applying virtual screening for developing and designing novel enzyme Inhibitors with focus on the solvation problem and the comparison between the implicit solvents models (PBSA/GBSA methods) and the explicit solvent methods; e.g. Linear Interaction Energy; applied to Epigentic targets. Later, I moved to another research area : the problem of Kinase inhibitors' selectivity, Application of Chem-bioinformatic methods for drug discovery, docking scoring, physics-based binding energy estimation, predicting the right binding mode with the right protein conformation and the prediction of the binding affinity.
 
 ---
-
-
-In addition to my research, I have an experience in teaching. I was a course instructor for [Computational Modeling in Physics](https://utm.calendar.utoronto.ca/course/phy426h5). Over the years, I have had the opportunity to teach various university courses in physics, mathematics, programming, and chemistry as a teaching assistant. [Find my selected tutorials](/teaching/).
-
----
