@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/ezgif-3-e1da36ca2200.gif" alt="md" width="140px" align="left" style="padding:10px;"> I am a Computational/Medicinal/Analytical chemist based in Augbsurg, Bayern. [More about research](/research/).
+I am a Computational/Medicinal/Analytical chemist based in Augbsurg, Bayern. [More about research](/research/).
 
 
 ---
