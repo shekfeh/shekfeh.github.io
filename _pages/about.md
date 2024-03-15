@@ -9,38 +9,24 @@ redirect_from:
 
 I am a Computational/Medicinal/Analytical chemist based in Augbsurg, Bayern. [More about research](/research/).
 
-
 ---
 
+In my career, I've delved into a diverse array of projects that have fueled my passion for pharmaceutical research. Among them:
 
-Some of the projects I worked with:
+ * Tackling the challenge of Mastocytosis/GIST's targeted therapy resistance driven by the mutant D816V c-KIT Tyrosine kinase.
+ * Unraveling the intricacies of Kinase inhibitors' selectivity, particularly against GSK3beta/CDK2 kinases.
+ * Employing cutting-edge methodologies like Linear Interaction Energy (LIE) and MM-PBSA to delve into the dynamics of Protein Kinases.
+ * Utilizing virtual screening techniques to unearth potential enzyme inhibitors, pushing the boundaries of drug discovery.
+ * Spearheading the discovery and refinement of Histone-Acetyltransferase (HAT) inhibitors, driven by a relentless pursuit of innovation.
+ * Pioneering the identification and enhancement of novel inhibitors targeting mPGES-1, Acetyl-Choline-Esterase, and Tyrosinase.
+ * Leveraging structure-based methods such as Docking and Molecular Dynamics to gain insights into molecular interactions.
+ * Exploring the realm of drug delivery systems, controlled release mechanisms, and polymer sciences for enhanced therapeutic outcomes.
+ * Navigating the complexities of Cheminformatics, Chemometrics, and chemical data management to extract meaningful insights.
+ * Harnessing the power of R, Python, and SQL for robust data processing and analysis.
+ * Mastering chromatography, spectrometry, and analytical chemistry techniques to validate and refine our discoveries.
 
-1- Overcoming the resistance to Mastocytosis/GIST's targeted therapy by the mutant D816V c-KIT Tyrosine kinase.
+My passion lies in the convergence of several key areas within the pharmaceutical landscape. Epigenetic Targets, such as HAT and HDAC, captivate me with their potential to reshape therapeutic paradigms. Similarly, the nuanced interplay between protein kinases' flexibility and the selectivity of kinase inhibitors presents an intellectually stimulating challenge. I'm also deeply intrigued by GPCRs, P-glycoprotein, and the intricate dynamics of the blood-brain barrier.
 
-2- Understanding the selectivity of Kinase inhibitors against GSK3beta/CDK2 kinases.
-
-3- Linear Interaction Energy (LIE) and MM-PBSA methods applied to the Protein Kinases.
-
-4- Virtual screening for discovering novel enzyme inhibitors.
-
-5- Discovery and optimization of novel Histone-Acetyltransferase (HAT) inhibitors.
-
-6- Discovery and optimization of novel mPGES-1 inhibitors, Acetyl-Choline-Esterase inhibitors and Tyrosinase inhibitors.
-
-7- Application of structure-based methods, e.g. Docking and Molecular Dynamics (Amber and Gromacs).
-
-8- Drug delivery systems / Controled release DDS / Polymers .
-
-9- Cheminformatics, Chemometrics, and chemical data managment.
-
-10- Data processing using R/Python/SQL.
-
-11- Chromatography, Spectrometry, and analytical chemical methods.
-
-
-Pharmaceutical Interests: Epigenetic Targets (HAT and HDAC), Kinases : flexibility of protein kinases and selectivity of kinase inhibitors, GPCRs, P-glycoprotein and blood brain barrier.
-
-
-The real focus of my work was applying virtual screening for developing and designing novel enzyme Inhibitors with focus on the solvation problem and the comparison between the implicit solvents models (PBSA/GBSA methods) and the explicit solvent methods; e.g. Linear Interaction Energy; applied to Epigentic targets. Later, I moved to another research area : the problem of Kinase inhibitors' selectivity, Application of Chem-bioinformatic methods for drug discovery, docking scoring, physics-based binding energy estimation, predicting the right binding mode with the right protein conformation and the prediction of the binding affinity.
+Throughout my journey, my primary focus has been on leveraging virtual screening methodologies to craft novel enzyme inhibitors, with a keen eye on solving the solvation problem. This has led me to explore the subtle nuances between implicit and explicit solvent models, particularly in the context of Epigenetic targets. As my research evolved, I shifted gears towards unraveling the mysteries of kinase inhibitor selectivity, employing a fusion of Chem-bioinformatic methods to drive drug discovery forward. From docking scoring to predicting binding affinities, I'm driven by an unwavering commitment to pushing the boundaries of pharmaceutical innovation.
 
 ---
